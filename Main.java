@@ -1,8 +1,11 @@
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Â³Â»Â°Â¡ Â¹Ã©ÃÃ˜ 1ÂµÃ®Ã€ÃŒÂ´Ã™!");
-	}
-	public static void main(String[] args) {
-		System.out.println("Â³Â»Â°Â¡ Â¹Ã©ÃÃ˜ 1ÂµÃ®Ã€ÃŒÂ´Ã™!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
+		System.out.println("³»°¡ ¹éÁØ 1µîÀÌ´Ù!");
 	}
 }
